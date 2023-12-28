@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802941591353",
+    "project_id": "notificacaoflutt",
+    "storage_bucket": "notificacaoflutt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802941591353:android:7e90f5e18433e5258b92e8",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Q-vMFBBDjA6udGwTB7AM18GLzDsl1Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802941591353:android:274713f9d49d161a8b92e8",
+        "android_client_info": {
+          "package_name": "com.example.notificacao_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Q-vMFBBDjA6udGwTB7AM18GLzDsl1Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
